@@ -1,0 +1,18 @@
+# Binaries
+pollkit
+pollkit-*
+*.exe
+
+# Data files
+*.json
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

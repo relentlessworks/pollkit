@@ -1,6 +1,6 @@
 # Binaries
-pollkit
-pollkit-*
+/pollkit
+/pollkit-*
 *.exe
 
 # Data files
